@@ -1,0 +1,15 @@
+@import 'tailwindcss/tailwind.css';
+
+.app-container {
+  display: flex;
+  justify-content: space-between;
+  height: 100vh;
+}
+
+.resume-form {
+  width: 50%;
+}
+
+.resume-preview {
+  width: 50%;
+}

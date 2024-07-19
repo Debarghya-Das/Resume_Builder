@@ -1,0 +1,49 @@
+.template2 {
+  padding: 20px;
+  background-color: #e6e6fa;
+  color: #333;
+}
+
+.template2 .header {
+  text-align: center;
+}
+
+.template2 .header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.template2 .header p {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.template2 .content {
+  margin-top: 20px;
+}
+
+.template2 .content section {
+  margin-bottom: 20px;
+}
+
+.template2 .content section h2 {
+  font-size: 1.5rem;
+  color: #800080;
+  margin-bottom: 0.5rem;
+}
+
+.template2 .content section p,
+.template2 .content section ul {
+  font-size: 1rem;
+  color: #555;
+}
+
+.template2 .input-field {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+  color: #333;
+  margin-top: 10px;
+}
